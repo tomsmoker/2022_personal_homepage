@@ -95,3 +95,13 @@ body {
       display: block;
     }
   }
+
+.light-mode {
+  background: green;
+  color: black;
+}
+
+.dark-mode {
+  background: black;
+  color: green;
+}
